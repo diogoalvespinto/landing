@@ -1,0 +1,27 @@
+.btn-green {
+  display: inline-block;
+  background-color: #1EDD88;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+  transition: 0.3s ease;
+}
+
+.btn-green:hover {
+  background-color: white;
+  color: black
+}
+
+.btn-big {
+  background-color: #1EDD88;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+  transition: 0.3s ease;
+  display: inline-block;
+}
+
+.btn-big:hover {
+  background-color: white;
+  color: black
+}
